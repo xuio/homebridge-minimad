@@ -1,0 +1,10 @@
+{
+  "name": "homebridge-osc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "moving-averages": "^4.0.6",
+    "node-osc": "^6.1.11"
+  }
+}
